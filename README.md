@@ -12,3 +12,5 @@ The GISAXS system has two pinholes. First pinhole composed from XY Newfocus moto
 The microfocus X-ray source from Incoatec is attached to the vertical and rotational Newport stages, which allow to adjust angle of incidence of X-rays on the liquid surface. 
 The activation of necessary motorized stages is done in S/N (Serial Number) tab in the main tab window. 
 There are many great scanning algorithms possible in the LabView software, which can be used in the sample adjustment for sample on the solid surface or sample like nanoparticles spread on the liquid surface. 
+
+The LabView codes were written in LabView 2012 and also use Internet Toolkit toolbox compatible with LabView 2012. The Internet Toolkit toolbox contain Telnet communication library to send commands to the Pilatus 100K X-ray detector. 
